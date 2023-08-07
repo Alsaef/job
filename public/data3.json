@@ -1,0 +1,15 @@
+{
+    "id": 3,
+    "company": "Tesla",
+    "job_category": "Hardware Engineer",
+    "remote": false,
+    "job_type": "Full Time",
+    "img_url": "https://example.com/tesla-logo.png",
+    "location": "Palo Alto, CA",
+    "salary": "$140,000 - $190,000",
+    "job_title": "Hardware Engineer",
+    "job_description": "Design and develop cutting-edge hardware solutions...",
+    "job_experience": "5+ years of experience in hardware design...",
+    "phone_number": "+1 (345) 678-9012",
+    "email": "jobs@tesla.com"
+  }

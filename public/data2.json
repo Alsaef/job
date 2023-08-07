@@ -1,0 +1,15 @@
+{
+    "id": 2,
+    "company": "Netflix",
+    "job_category": "Data Scientist",
+    "remote": false,
+    "job_type": "Full Time",
+    "img_url": "https://example.com/netflix-logo.png",
+    "location": "Los Gatos, CA",
+    "salary": "$130,000 - $180,000",
+    "job_title": "Data Scientist",
+    "job_description": "Analyze large datasets to extract valuable insights...",
+    "job_experience": "3+ years of experience in data analysis...",
+    "phone_number": "+1 (234) 567-8901",
+    "email": "jobs@netflix.com"
+  }

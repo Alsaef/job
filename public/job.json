@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "job_category": "Account & Finance",
+      "job":"300 Jobs Available",
+      "img_url": "https://raw.githubusercontent.com/Alsaef/job-api/main/images/Icons/accounts%201.png"
+    },
+    {
+      "id": 2,
+      "job_category": "Creative Design",
+      "job": "100+ Jobs Available",
+      "img_url": "https://raw.githubusercontent.com/Alsaef/job-api/main/images/Icons/business%201.png"
+    },
+    {
+      "id": 3,
+      "job_category": "Marketing & Sales",
+      "job": "150 Jobs Available",
+      "img_url": "https://raw.githubusercontent.com/Alsaef/job-api/main/images/Icons/social-media%201.png"
+    },
+    {
+      "id": 4,
+      "job_category": "Engineering",
+      "job": "224 Jobs Available",
+      "img_url": "https://raw.githubusercontent.com/Alsaef/job-api/main/images/Icons/chip%201.png"
+    }
+  ]
+  

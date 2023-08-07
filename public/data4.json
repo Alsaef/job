@@ -1,0 +1,15 @@
+{
+    "id": 4,
+    "company": "Microsoft",
+    "job_category": "Product Manager",
+    "remote": true,
+    "job_type": "Full Time",
+    "img_url": "https://example.com/microsoft-logo.png",
+    "location": "Redmond, WA",
+    "salary": "$160,000 - $220,000",
+    "job_title": "Senior Product Manager",
+    "job_description": "Lead product development and drive innovation...",
+    "job_experience": "7+ years of experience in product management...",
+    "phone_number": "+1 (456) 789-0123",
+    "email": "jobs@microsoft.com"
+  }

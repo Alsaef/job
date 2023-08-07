@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "company": "Google",
+      "job_category": "Software Engineer",
+      "remote": true,
+      "job_type": "Full Time",
+      "img_url": "https://raw.githubusercontent.com/Alsaef/job-api/main/images/All%20Images/google-1-1%201.png",
+      "location": "Mountain View, CA",
+      "salary": "$150,000 - $200,000"
+    },
+    {
+      "id": 2,
+      "company": "Netflix",
+      "job_category": "Data Scientist",
+      "remote": false,
+      "job_type": "Full Time",
+      "img_url": "https://raw.githubusercontent.com/Alsaef/job-api/main/images/All%20Images/netflix-4%201.png",
+      "location": "Los Gatos, CA",
+      "salary": "$130,000 - $180,000"
+    },
+    {
+      "id": 3,
+      "company": "Tesla",
+      "job_category": "Hardware Engineer",
+      "remote": false,
+      "job_type": "Full Time",
+      "img_url": "https://raw.githubusercontent.com/Alsaef/job-api/main/images/All%20Images/tesla-9%201.png",
+      "location": "Palo Alto, CA",
+      "salary": "$140,000 - $190,000"
+    },
+    {
+      "id": 4,
+      "company": "Microsoft",
+      "job_category": "Product Manager",
+      "remote": true,
+      "job_type": "Full Time",
+      "img_url": "https://www.thesoftwarereport.com/wp-content/uploads/2021/07/Microsoft.png",
+      "location": "Redmond, WA",
+      "salary": "$160,000 - $220,000"
+    }
+  ]
+  

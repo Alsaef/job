@@ -1,0 +1,15 @@
+{
+    "id": 1,
+    "company": "Google",
+    "job_category": "Software Engineer",
+    "remote": true,
+    "job_type": "Full Time",
+    "img_url": "https://example.com/google-logo.png",
+    "location": "Mountain View, CA",
+    "salary": "$150,000 - $200,000",
+    "job_title": "Senior Software Engineer",
+    "job_description": "Develop and maintain high-performance software applications...",
+    "job_experience": "5+ years of experience in software development...",
+    "phone_number": "+1 (123) 456-7890",
+    "email": "jobs@google.com"
+  }
